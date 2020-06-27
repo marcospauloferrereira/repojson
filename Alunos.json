@@ -1,0 +1,20 @@
+{
+	"Alunos": [{
+			"name": "Marcos",
+			"Sobrenome": "Paulo Ferreira do Amaral",
+			"Email": "marcos_pfa@yahoo.com.br",
+			"Telefone": "(31)99999-9999"
+		}, {
+			"name": "Thiago",
+			"Sobrenome": "Almeida",
+			"Email": " thiguinho@yahoo.com.br",
+			"Telefone": "(31)99999-9999"
+		},
+		{
+			"name": "Giovanni",
+			"Sobrenome": "Vantuil",
+			"Email": "giovanni@yahoo.com.br",
+			"Telefone": "(31)99999-9999"
+		}
+	]
+}
